@@ -23,4 +23,10 @@ class TestingJenkinsApplicationTests {
     }
 
 
+    @Test
+    public void test_3(){
+        Assertions.assertEquals(1,3);
+    }
+
+
 }
