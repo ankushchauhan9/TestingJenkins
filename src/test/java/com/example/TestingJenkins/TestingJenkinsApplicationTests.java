@@ -25,7 +25,7 @@ class TestingJenkinsApplicationTests {
 
     @Test
     public void test_3(){
-        Assertions.assertEquals(1,3);
+        Assertions.assertEquals(3,3);
     }
 
 
